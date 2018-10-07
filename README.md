@@ -14,3 +14,5 @@ Asteroid impacts can be calculated with online tools such as the Purdue Impact E
 https://www.purdue.edu/impactearth
 
 It is the nature of models that they are merely an approximation of the real world. With this in mind, one should exercise caution when making predictions of real world outcomes for disastrous events such as an asteroid impact or other natural phenomena based on the models presented here. It is important to consider how these models were derived and what event magnitude is most applicable. For example, I have used these models to predict the outcomes of impacting asteroids with diameters up to 400 m and not larger.
+
+This is a test file:::::We will change it soon
