@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T14:22:26.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="X5x95CPAi3yJbwJt41Jl" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T14:23:11.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wc0r5yysOAvitDafadNl" version="20.2.2" type="github">
   <diagram id="HnsUmnxyyoC5caaP8r3z" name="Page-1">
     <mxGraphModel dx="1221" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         <mxCell id="r0t9PXp3FNk8ytaZ-MLT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="r0t9PXp3FNk8ytaZ-MLT-75" target="r0t9PXp3FNk8ytaZ-MLT-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0t9PXp3FNk8ytaZ-MLT-75" value="Completed Job pictures" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="r0t9PXp3FNk8ytaZ-MLT-75" value="Upload completed Job pictures&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="604.4100000000001" y="815" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
