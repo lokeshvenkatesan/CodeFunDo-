@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T05:11:09.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OMoBypFhUCGyEMViTr3w" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T05:20:53.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iSDUWr5357RmSJksE-X6" version="20.5.1" type="github">
   <diagram id="Nws2RUMsPhuSasteN1tF" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,19 +94,61 @@
           <mxGeometry x="630" y="710" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5ktMmAsC23BBSHwN6mK-31" value="All" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="860" width="70" height="40" as="geometry" />
+          <mxGeometry x="570" y="870" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A5ktMmAsC23BBSHwN6mK-32" value="Mentions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="880" width="100" height="40" as="geometry" />
+          <mxGeometry x="660" y="910" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A5ktMmAsC23BBSHwN6mK-33" value="DMs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="880" width="130" height="40" as="geometry" />
+          <mxGeometry x="790" y="910" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A5ktMmAsC23BBSHwN6mK-34" value="Highlights words (Mobile)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A5ktMmAsC23BBSHwN6mK-35" value="Never" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="875" width="100" height="50" as="geometry" />
+          <mxGeometry x="1090" y="905" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-36" value="DM?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="810" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-37" value="here?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="810" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-38" value="Highlight words?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="810" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-42" value="@mention (Comment on the Video owned/ uploaded by user." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-43" value="Thread message?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-44" value="User Subscribed?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="900" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-45" value="YES" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-46" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-47" target="A5ktMmAsC23BBSHwN6mK-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-47" value="Mobile?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-49" value="Past mobile push timings threshold?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-51" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-52" value="&lt;div&gt;NB: if the user&#39;s desktop client Mark as Read&lt;/div&gt;&lt;div&gt;pref is set to Mark the channel read, mobile&lt;/div&gt;&lt;div&gt;pushes will not be sent for messages marked&lt;/div&gt;&lt;div&gt;read on the desktop (ie. when the user leaves&lt;/div&gt;&lt;div&gt;their computer open to a channel).&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1160" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-53" value="FCN Rough draft for notifiication preference." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=14;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-30" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
