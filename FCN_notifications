@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T04:50:26.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="Q8ebzxpbDURoJdxz_SN5" type="github"><diagram id="Nws2RUMsPhuSasteN1tF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-31T05:11:09.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OMoBypFhUCGyEMViTr3w" version="20.5.1" type="github">
+  <diagram id="Nws2RUMsPhuSasteN1tF" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-1" target="A5ktMmAsC23BBSHwN6mK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-1" value="Should we send a notification?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-4" target="A5ktMmAsC23BBSHwN6mK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-4" target="A5ktMmAsC23BBSHwN6mK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-4" value="Channel muted?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-7" target="A5ktMmAsC23BBSHwN6mK-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="260" />
+              <mxPoint x="336" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-7" value="Thread message &amp;amp;&amp;amp; User Subscribed??" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-9" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="185" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-10" target="A5ktMmAsC23BBSHwN6mK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-10" target="A5ktMmAsC23BBSHwN6mK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-10" value="User in DnD?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="235" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.387;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A5ktMmAsC23BBSHwN6mK-14" target="A5ktMmAsC23BBSHwN6mK-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="380" />
+              <mxPoint x="360" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-14" value="DnD override" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-16" value="@channel/ @everyone/ @here message?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-18" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="355" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="355" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-22" value="Thread message &amp;amp;&amp;amp; user subscribed?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-23" value="threads_everything pref is on?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-24" value="Channel pref notification is &quot;Nothing&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-25" value="What&#39;s the user channel notification pref for this device?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="610" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-26" value="Nothing&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-27" value="Everything" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-28" value="Mentions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-29" value="Default" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-30" value="What&#39;s the user&#39;s &lt;b&gt;global &lt;/b&gt;notification pref for this device?&lt;b&gt;&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="710" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-31" value="All" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="860" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-32" value="Mentions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="880" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-33" value="DMs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="880" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-34" value="Highlights words (Mobile)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5ktMmAsC23BBSHwN6mK-35" value="Never" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="875" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
